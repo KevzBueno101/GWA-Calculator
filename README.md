@@ -54,7 +54,7 @@ Built using [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br>Python 3
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/logo/customtkinter_icon_light.png" width="40" alt="CustomTkinter"/><br>CustomTkinter
+      <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/logo/customtkinter_icon_dark.png" width="40" alt="CustomTkinter"/><br>CustomTkinter
     </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Tkinter.png" width="40" alt="Tkinter"/><br>Tkinter Listbox
@@ -78,6 +78,7 @@ Built using [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for 
     </td>
   </tr>
 </table>
+
 
 ---
 
