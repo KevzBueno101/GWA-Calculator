@@ -48,10 +48,36 @@ Built using [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for 
 
 ## 🧑‍💻 Tech Stack
 
-- **Python 3**
-- **CustomTkinter**
-- **Tkinter Listbox**
-- **OOP (Object-Oriented Programming)**
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br>Python 3
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/logo/customtkinter_icon_light.png" width="40" alt="CustomTkinter"/><br>CustomTkinter
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Tkinter.png" width="40" alt="Tkinter"/><br>Tkinter Listbox
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/><br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/github/copilot-docs/main/docs/assets/images/copilot-logo.svg" width="40" alt="Copilot"/><br>GitHub Copilot
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" alt="ChatGPT"/><br>ChatGPT
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/><br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/><br>GitHub
+    </td>
+  </tr>
+</table>
 
 ---
 
