@@ -40,7 +40,9 @@ Built using [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for 
 
 ## 📸 Screenshot
 
-![GWA Calculator Preview](GwaCalculator/Screenshot from 2025-07-11 13-22-11.png)
+![GWA Calculator Preview](https://raw.githubusercontent.com/KevzBueno101/GwaCalculator/Screenshot from 2025-07-11 13-22-11.png)
+
+
 
 
 ---
