@@ -110,7 +110,6 @@ class GwaCalculator(ctk.CTk):
             self.grade_entry.delete(0, "end")
         except ValueError:
             messagebox.showerror("Input Error", "Units and Grade must be numbers.")
-            messagebox.showerror("Input Error", "Units and Grade must be numbers.")
     def calculate_gwa(self):
         if not self.subjects:
             messagebox.showwarning("Calculation Error", "No subjects added.")
