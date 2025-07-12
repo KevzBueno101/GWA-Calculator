@@ -15,16 +15,16 @@ I created this app after receiving my class cards — I wanted to compute my act
 ## ⚙️ Features
 
 ✅ **Add Subjects Easily**  
-Fill in your subject's name, units, and grade using a clean 3-column input layout.
+Fill in the subject's name, units, and grade using a clean 3-column input layout.
 
 📋 **Display Subjects in a Scrollable List**  
 All added subjects are shown in a neat, aligned list with monospaced formatting.
 
 🧮 **GWA Calculation**  
-Click `Calculate GWA` to instantly compute your General Weighted Average based on the subjects and units.
+Click `Calculate GWA` to instantly compute the General Weighted Average based on the subjects and units.
 
 🏅 **Award Detection**  
-The app automatically checks if you're qualified for:
+The app automatically checks if GWA is qualified for:
 - 🥇 **President's Lister** – GWA between 1.00 to 1.30  
 - 🥈 **Dean's Lister** – GWA between 1.31 to 1.50  
 - ✅ **Passed** – GWA below 3.0  
