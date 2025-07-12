@@ -87,5 +87,5 @@ Built using [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for 
 1. 🔽 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/gwa-calculator.git
-cd gwa-calculator
+git clone https://github.com/KevzBueno101/GWA-Calculator.git
+cd GWA-Calculator
