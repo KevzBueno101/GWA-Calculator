@@ -51,6 +51,9 @@ Designed with CustomTkinter for a clean, modern dark-themed interface.
  > Provides a professional installation experience
 
 ---
+![Screenshot]([https://github.com/user/repo/assets/123456789/example.png](https://github.com/KevzBueno101/GWA-Calculator/blob/main/Programming_Projectss/GWA_Calculator/Screenshot%20from%202025-07-11%2013-22-11.png))
+
+---
 
 🧑‍💻 Tech Stack
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/logo/customtkinter_icon_dark.png" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Tkinter.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/copilot-docs/main/docs/assets/images/copilot-logo.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> </p>
