@@ -51,7 +51,7 @@ Designed with CustomTkinter for a clean, modern dark-themed interface.
  > Provides a professional installation experience
 
 ---
-<a href="#"> <p align="center"> <img width="50%" height="auto" src="[https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png](https://github.com/KevzBueno101/GWA-Calculator/blob/main/Programming_Projectss/GWA_Calculator/Screenshot%20from%202025-07-11%2013-22-11.png)" height="175px"/> </p> </a>
+<a href="#"> <p align="center"> <img width="50%" height="auto" src="[https://github.com/KevzBueno101/GWA-Calculator/blob/main/Programming_Projectss/GWA_Calculator/Screenshot%20from%202025-07-11%2013-22-11.png]" height="175px"/> </p> </a>
 
 ---
 
