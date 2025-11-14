@@ -1,7 +1,7 @@
 **📘 GWA Calculator**
 
 > A clean, functional, and user-friendly GWA (General Weighted Average) Calculator built with Python and CustomTkinter, now distributed with a professional Windows installer (Inno Setup).
- > ✨ A small project turned into a polished desktop app — built with Python, CustomTkinter, and enhanced using ChatGPT + GitHub Copilot.
+ > ✨ A small project turned into a polished desktop app — built with Python, CustomTkinter.
 
 **🎯 Purpose**
 
